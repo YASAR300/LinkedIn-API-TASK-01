@@ -3,6 +3,9 @@
 ### For detailed API documentation, check the Postman link:  
 [Click here to view Postman Documentation](https://documenter.getpostman.com/view/39189780/2sAYQUptdv)
 
+
+[Google Drive Link](https://drive.google.com/file/d/1M6y7NesVS35JmrftVYOVwAfTMwmjhmZb/view?usp=drive_link)
+
 ---
 
 ## Overview
